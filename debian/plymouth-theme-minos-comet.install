@@ -1,0 +1,3 @@
+*.png lib/plymouth/themes/minos-comet/
+*.plymouth lib/plymouth/themes/minos-comet/
+*.script lib/plymouth/themes/minos-comet/
